@@ -1,7 +1,8 @@
+print("Chapter 1: \nExercise 3: Print Datea dn Time\n")
+
 import datetime
 x = datetime.datetime.now()
-y =  datetime.datetime.now()
-print(y.year)
+print(x.year)
 print(x.month)
-print(y.day)
+print(x.day)
 print(x)

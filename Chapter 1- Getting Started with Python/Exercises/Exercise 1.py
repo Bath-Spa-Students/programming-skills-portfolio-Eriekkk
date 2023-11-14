@@ -1,3 +1,5 @@
+print("Chapter 1: \nExercise 1: Print Strings\n")
+
 print("""Twinkle, twinkle, little star,
 	How I wonder what you are! 
 		Up above the world so high,   		
