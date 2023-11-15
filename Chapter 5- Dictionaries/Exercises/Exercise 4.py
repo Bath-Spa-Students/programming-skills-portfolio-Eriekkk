@@ -1,4 +1,4 @@
-print("Exercise 4: Rivers\n")
+print("Chapter 5: \nExercise 4: Rivers\n")
 
 #dictionary of ricers and countries
 rivers = {

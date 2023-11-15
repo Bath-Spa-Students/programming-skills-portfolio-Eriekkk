@@ -1,11 +1,11 @@
-print("Exercise 1: Pizza Toppings\n")
+print("Chapter 6: \nExercise 1: Pizza Toppings\n")
 
 #using empty list to store pizza toppings 
 toppings = []
 
 #Using while loop to continue outputing to continue asking for the pizza 
 while True:
-    pizza_toppings = input("Please add your pizza toppings (if you are done type 'quit'): ").lower()
+    pizza_toppings = input("Please add your pizza toppings and type quit of you are done: ").lower()
     #an if statement if the user is done adding their toppings and a break
     if pizza_toppings == "quit":
         break

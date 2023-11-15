@@ -1,17 +1,17 @@
-print("Exercise 4: Deli\n")
+print("Chapter 6: \nExercise 4: Deli\n")
 
-sandwich_orders = ["grilled cheese", "egg", "chicken", "nutella", "ham"]
-finished_sandwiches = []
+orders = ["grilled cheese", "egg", "chicken", "nutella", "ham"]
+finished = []
 
 #loop to move the sandwhich orders to the finished sandwiches and printing the current order
-while sandwich_orders:
-    current_orders = sandwich_orders.pop(0)
-    print(f"Your {current_orders} sandwiched is done, come pick it up!")
-    finished_sandwiches.append(current_orders)
+while orders:
+    current = orders.pop(0)
+    finished.append(current)
+    print(f"Your {current} sandwiched is done, come pick it up!")
 
 #printing all the finished orders
 print("\nHere are the finished orders: ")
-for i in finished_sandwiches:
-    print(i)
+for i in finished:
+    print(f"{i} sandwhich")
 
 

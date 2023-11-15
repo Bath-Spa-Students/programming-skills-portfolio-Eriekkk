@@ -1,4 +1,4 @@
-print("Exercise 5: USB Shopper")
+print("Chapter 2: \nExercise 5: USB Shopper\n")
 
 usb_cost = 6
 budget = 50

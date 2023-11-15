@@ -1,5 +1,5 @@
-print("Exercise 2: Variables")
+print("Chapter 2: \nExercise 2: Variables\n")
 
 author = "Stephen Curry"
-quote = '"There’s more to life than basketball. The most important thing is your family and taking care of each other and loving each other no matter what."'
+quote = '"There is more to life than basketball. \nThe most important thing is your family and taking care \nof each other and loving each other no matter what."'
 print(f"{author} once said, {quote}")

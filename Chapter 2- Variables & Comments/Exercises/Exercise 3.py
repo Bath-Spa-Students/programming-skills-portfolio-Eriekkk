@@ -1,4 +1,4 @@
-print("Exercise 3: Stripping Names")
+print("Chapter 2: \nExercise 3: Stripping Names\n")
 
 name = "\t Miyamura \n Izumi"
 print("Example of name with space:",name)

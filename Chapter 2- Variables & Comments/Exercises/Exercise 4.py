@@ -1,4 +1,4 @@
-print("Exercise 4: Favorite Number")
+print("Chapter 2: \nExercise 4: Favorite Number\n")
 
 favorite_number = input("Enter your favourite number: ")
 number = "My Favourite number is " + favorite_number

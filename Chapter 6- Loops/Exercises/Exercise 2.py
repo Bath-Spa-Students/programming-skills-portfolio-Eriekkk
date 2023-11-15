@@ -1,4 +1,4 @@
-print("Exercise 2: Movie Tickets\n")
+print("Chapter 6: \nExercise 2: Movie Tickets\n")
 #using a while loop to contiue asking the user for there age
 while True:
     age = input("Please enter your age (to get your ticket price type 'quit'): ").lower()

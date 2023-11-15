@@ -1,4 +1,4 @@
-("Exercise 2: Glossary #2\n")
+("Chapter 5: \nExercise 3: Glossary #2\n")
 
 #dictionary about the progrraming words and the meanings
 glossary = {
@@ -14,7 +14,7 @@ glossary = {
     "Float": "It is a data type composed of a number that is not a whole number and with a decimal point.",
 }
 
-print("Five programming terms: \n")
+print("Ten programming terms: \n")
 #using loop to print the items in the dictionary
 for i,x in glossary.items():
     print(f"{i}: {x}\n")

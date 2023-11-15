@@ -4,5 +4,5 @@ print("Chapter 3: \nExercise 1: Names\n")
 friends_list = ["Geremy", "Kryz", "Gab", "JR", "Junielle"]
 
 #print each of friends name in the list
-for friends in friends_list:
-    print(friends)
+for i in friends_list:
+    print(i)

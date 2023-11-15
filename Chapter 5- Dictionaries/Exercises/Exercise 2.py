@@ -1,4 +1,4 @@
-("Exercise 2: Glossary\n")
+("Chapter 5: \nExercise 2: Glossary\n")
 
 #dictionary about the progrraming words and the meanings
 glossary = {

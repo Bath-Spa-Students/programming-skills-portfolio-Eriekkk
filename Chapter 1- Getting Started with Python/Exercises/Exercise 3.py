@@ -1,4 +1,4 @@
-print("Chapter 1: \nExercise 3: Print Datea dn Time\n")
+print("Chapter 1: \nExercise 3: Print Date and Time\n")
 
 import datetime
 x = datetime.datetime.now()
